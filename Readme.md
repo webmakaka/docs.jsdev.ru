@@ -1,4 +1,4 @@
-# [jsdev.ru](https://jsdev.ru) source codes
+# [docs.jsdev.ru](https://docs.jsdev.ru) source codes
 
 <br/>
 
